@@ -1,2 +1,2 @@
-# Python
-python lab programs
+# AI
+AI lab programs
